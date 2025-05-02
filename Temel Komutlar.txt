@@ -1,0 +1,13 @@
+.toLowerCase ---> Hepsini küçük harf yapar
+.toUpperCase ---> Hepsini büyük harf yapar
+.trim        ---> Kırpma yapar
+.lenght      ---> Eleman sayısı
+.charAt(x)   ---> X. değerdeki elemanı yazar
+.concat(x)   ---> Tanımlı eleman ile x elemanını birleştirir
+.startsWith(x) ---> X elemanı ile başlıyorsa true, başlamıyorsa false yazar
+.endsWith(x)   ---> X elemanı ile bitiyorsa true, bitmiyorsa false yazar
+.indexOf(x)    ---> Tanımlı değerde x elamanının baştan kaçıncı değer olduğunu yazar
+.lastIndexOf(x)---> Tanımlı değerde x elamanının sondan bakmaya başlayarak baştan kaçıncı değer olduğunu yazar
+.replace(x,y)  ---> x'i çıkarak onun yerine y yazar 
+.substring(x,y)---> x den y ye kadar yazar
+.split(x)      ---> x'in olduğu yerlerden parçalar
